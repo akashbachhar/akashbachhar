@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbachhar&label=Profile%20views&color=0e75b6&style=flat" alt="akashbachhar" /> </p>
 
-- 🔭 I’m currently working on **a E-commerce Website using MERN**
+- 🔭 I’m currently working on **an E-commerce Website using MERN**
 
 - 🌱 I’m currently learning **Blockchain**
 
@@ -29,6 +29,6 @@
 <a href="https://github.com/akashbachhar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&theme=radical&hide_langs_below=1" />
 </a>
-<a href="https://github.com/akashbachhar">
+&nbsp; <a href="https://github.com/akashbachhar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&theme=radical&line_height=27" alt="Rudraditya's github stats"/>
 </a>
