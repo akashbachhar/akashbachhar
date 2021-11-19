@@ -15,7 +15,6 @@
 <a href="https://twitter.com/akash_bachhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash_bachhar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akashbachhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashbachhar" height="30" width="40" /></a>
 <a href="https://fb.com/akashsupanbachhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashsupanbachhar" height="30" width="40" /></a>
-<a href="https://instagram.com/akash_bachhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_bachhar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
