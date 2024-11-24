@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbachhar&label=Profile%20views&color=0e75b6&style=flat" alt="akashbachhar" /> </p>
 
-- 🔭 I’m currently working on **a Blockchain based Social Media**
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🔭 I’m currently working on **building a humanoid robot**
+- 🌱 I’m currently learning **Generative AI**
 - 👨‍💻 All of my projects are available at [https://www.akashbachhar.com](https://www.akashbachhar.com)
 - 💬 Ask me about **Full Stack Development**
-- 📫 How to reach me **akashbachhar@protonmail.com**
+- 📫 How to reach me **akashbachhar2001@gmail.com**
 - ⚡ Fun fact **I am a kid, forever xD**
 
 <h3 align="left">Connect with me:</h3>
