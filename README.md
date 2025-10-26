@@ -26,5 +26,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&theme=radical&hide_langs_below=1" />
 </a>
 &nbsp; <a href="https://github.com/akashbachhar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&theme=radical&line_height=27" alt="Rudraditya's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&theme=radical&line_height=27" alt="Akash's github stats"/>
 </a>
