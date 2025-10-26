@@ -1,7 +1,7 @@
 <h1 align="center">Hello World , I'm Akash 👋🏻</h1>
 <h3 align="center">A self-taught Computer Programmer :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbachhar&label=Profile%20views&color=0e75b6&style=flat" alt="akashbachhar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akashbachhar&label=Profile%20views&color=0e75b6&style=flat" alt="akashbachhar" /> </p>
 
 - 🔭 I’m currently working on **building vision-based intelligent locomotion and manipulation systems**
 - 🌱 I’m currently learning **Generative AI and Reinforcement Learning in Robotics**
@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://dev.to/akashbachhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akashbachhar" height="30" width="40" /></a>
 <a href="https://twitter.com/akash_bachhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash_bachhar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akash_bachhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash_bachhar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akashbachhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash_bachhar" height="30" width="40" /></a>
 <a href="https://instagram.com/conjugatesky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="conjugatesky" height="30" width="40" /></a>
 </p>
 
