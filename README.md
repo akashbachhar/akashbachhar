@@ -1,9 +1,8 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=250&section=header&text=Hi,%20I'm%20Akash%20👋🏻&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🤖%20Robotics%20Engineer%20and%20AI%20Researcher%20🚀&descAlignY=58&descSize=22" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Hi,%20I'm%20Akash%20👋🏻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-### 🤖 Robotics Engineer & AI Enthusiast 🚀
 </div>
 
 <!-- ============================ ABOUT ============================ -->
