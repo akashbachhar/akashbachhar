@@ -1,30 +1,123 @@
-<h1 align="center">Hello World , I'm Akash 👋🏻</h1>
-<h3 align="center">Robotics Engineer & AI Enthusiast 🚀</h3>
+<!-- ============================ HEADER ============================ -->
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akashbachhar&label=Profile%20views&color=0e75b6&style=flat" alt="akashbachhar" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Hi,%20I'm%20Akash%20👋🏻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-- 🔭 I’m currently working on **building vision-based intelligent locomotion and manipulation systems**
-- 🌱 I’m currently learning **Generative AI and Reinforcement Learning in Robotics**
-- 👨‍💻 All of my projects are available at [https://www.akashbachhar.com](https://www.akashbachhar.com)
-- 💬 Ask me about **Robotics, Computer Vision, and Full-Stack Development**
-- 📫 How to reach me **akashbachhar2001@gmail.com**
-- ⚡ Fun fact **I am a kid, forever xD**
+### 🤖 Robotics Engineer & AI Enthusiast 🚀
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/akashbachhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akashbachhar" height="30" width="40" /></a>
-<a href="https://twitter.com/akash_bachhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash_bachhar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akashbachhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash_bachhar" height="30" width="40" /></a>
-<a href="https://instagram.com/conjugatesky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="conjugatesky" height="30" width="40" /></a>
+<p>
+  <a href="https://twitter.com/akash_bachhar"><img src="https://img.shields.io/twitter/follow/akash_bachhar?style=social" alt="twitter"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=akashbachhar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- ============================ ABOUT ============================ -->
+## 🧠 About Me
 
-<a href="https://github.com/akashbachhar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&theme=radical&hide_langs_below=1" />
-</a>
-&nbsp; <a href="https://github.com/akashbachhar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&theme=radical&line_height=27" alt="Akash's github stats"/>
-</a>
+```yaml
+name:         Akash Bachhar
+role:         Robotics Engineer & AI Enthusiast
+working_on:   Vision-based intelligent locomotion & manipulation systems
+learning:     Generative AI & Reinforcement Learning in Robotics
+projects:     akashbachhar.com
+ask_me_about: [ Robotics, Computer Vision, Full-Stack Development ]
+reach_me:     akashbachhar2001@gmail.com
+fun_fact:     "I am a kid, forever xD"
+```
+
+<br/>
+
+<!-- ============================ CONNECT ============================ -->
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/akashbachhar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://twitter.com/akash_bachhar" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+  <a href="https://dev.to/akashbachhar" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto"/></a>
+  <a href="https://instagram.com/conjugatesky" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="mailto:akashbachhar2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+</p>
+
+<br/>
+
+<!-- ============================ TECH STACK ============================ -->
+## 🛠️ Languages & Tools
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
+### AI / ML & Computer Vision
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+### Robotics & Simulation
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-FB7B00?style=for-the-badge&logo=gazebo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MuJoCo-1A73E8?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### Robotics Hardware
+<p align="left">
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NodeMCU-3C3C3D?style=for-the-badge&logo=espressif&logoColor=white"/>
+</p>
+
+### Web & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- ============================ GITHUB STATS ============================ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Akash's GitHub stats"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&layout=compact&theme=radical&hide_border=true&hide_langs_below=1" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashbachhar&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<!-- ============================ FOOTER ============================ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%"/>
+
+⭐️ From [Akash Bachhar](https://www.akashbachhar.com)
+
+</div>
