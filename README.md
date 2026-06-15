@@ -4,13 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Hi,%20I'm%20Akash%20👋🏻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 ### 🤖 Robotics Engineer & AI Enthusiast 🚀
-
-<p>
-  <a href="https://twitter.com/akash_bachhar"><img src="https://img.shields.io/twitter/follow/akash_bachhar?style=social" alt="twitter"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=akashbachhar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 </div>
 
 <!-- ============================ ABOUT ============================ -->
@@ -101,7 +94,7 @@ fun_fact:     "I am a kid, forever xD"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Akash's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Akash's GitHub stats"/>
 &nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&layout=compact&theme=radical&hide_border=true&hide_langs_below=1" alt="Top Languages"/>
 
@@ -115,9 +108,5 @@ fun_fact:     "I am a kid, forever xD"
 
 <!-- ============================ FOOTER ============================ -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%"/>
-
-⭐️ From [Akash Bachhar](https://www.akashbachhar.com)
-
 </div>
