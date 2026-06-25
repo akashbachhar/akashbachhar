@@ -107,3 +107,5 @@ fun_fact:     "I am a kid, forever xD"
 
 <!-- ============================ FOOTER ============================ -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%"/>
+</div>
