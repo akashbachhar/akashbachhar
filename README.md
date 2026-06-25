@@ -95,7 +95,8 @@ fun_fact:     "I am a kid, forever xD"
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Akash's GitHub stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&layout=compact&theme=radical&hide_border=true&hide_langs_below=1" alt="Top Languages"/>
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&layout=compact&theme=radical&hide_border=true&v=2"/>
 
 <br/><br/>
 
