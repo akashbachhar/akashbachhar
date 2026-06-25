@@ -114,10 +114,3 @@ fun_fact:     "I am a kid, forever xD"
 </div>
 
 <br/>
-
-<!-- ============================ FOOTER ============================ -->
-<div align="center">
-
-⭐️ From <a href="https://github.com/akashbachhar">Akash</a>
-
-</div>
