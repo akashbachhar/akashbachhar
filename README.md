@@ -1,6 +1,6 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=250&section=header&text=Hi,%20I'm%20Akash%20👋🏻&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🤖%20Robotics%20Engineer%20and%20AI%20Researcher%20🚀&descAlignY=58&descSize=22" width="100%"/>
 
 </div>
@@ -89,28 +89,21 @@ fun_fact:     "I am a kid, forever xD"
 <br/>
 
 <!-- ============================ GITHUB STATS ============================ -->
-<!--
-  CARD NOTES (hosted endpoints — public contributions only):
-  - 'include_all_commits' is intentionally OMITTED: it hits GitHub's Search API,
-    which fails constantly on the shared public instance ("Could not fetch total
-    commits"). Leaving it off keeps the card loading reliably (last-year commits).
-  - Streak uses the current 'streak-stats.demolab.com' domain (the old herokuapp
-    one is dead). Hosted endpoints cannot read PRIVATE contributions; if your
-    streak looks low, that work is private and only a tokened self-host / GitHub
-    Action can count it.
--->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&count_private=true&rank_icon=github&theme=radical&hide_border=true&cache_seconds=86400" alt="Akash's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Akash's GitHub stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&layout=compact&langs_count=8&theme=radical&hide_border=true&hide_langs_below=1&cache_seconds=86400" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&layout=compact&theme=radical&hide_border=true&hide_langs_below=1" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=akashbachhar&theme=radical&hide_border=true&mode=daily" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashbachhar&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
+
+<!-- ============================ FOOTER ============================ -->
+<div align="center">
