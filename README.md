@@ -1,6 +1,6 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=250&section=header&text=Hi,%20I'm%20Akash%20👋🏻&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🤖%20Robotics%20Engineer%20and%20AI%20Researcher%20🚀&descAlignY=58&descSize=22" width="100%"/>
 
 </div>
@@ -89,17 +89,28 @@ fun_fact:     "I am a kid, forever xD"
 <br/>
 
 <!-- ============================ GITHUB STATS ============================ -->
+<!--
+  ROBUSTNESS NOTE:
+  The three cards below use the PUBLIC hosted instances. These work, but the
+  github-readme-stats public instance is heavily rate-limited and may occasionally
+  go stale. For a rock-solid setup, self-host both services on your own Vercel
+  account (free) and replace these two domains:
+     github-readme-stats.vercel.app  ->  <your-instance>.vercel.app
+     streak-stats.demolab.com        ->  <your-streak-instance>.vercel.app
+  See the chat instructions for the 5-minute deploy steps.
+-->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Akash's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Akash's GitHub stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&layout=compact&theme=radical&hide_border=true&hide_langs_below=1" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&layout=compact&langs_count=8&theme=radical&hide_border=true&hide_langs_below=1" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashbachhar&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<!-- Streak: moved off the dead herokuapp endpoint to the current demolab domain -->
+<img src="https://streak-stats.demolab.com/?user=akashbachhar&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -107,3 +118,5 @@ fun_fact:     "I am a kid, forever xD"
 
 <!-- ============================ FOOTER ============================ -->
 <div align="center">
+
+</div>
