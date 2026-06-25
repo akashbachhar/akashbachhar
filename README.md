@@ -95,12 +95,11 @@ fun_fact:     "I am a kid, forever xD"
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=akashbachhar&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Akash's GitHub stats"/>
 &nbsp;
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&layout=compact&theme=radical&hide_border=true&v=2"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar&layout=compact&theme=radical&hide_border=true&hide_langs_below=1" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=akashbachhar&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashbachhar&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -108,5 +107,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbachhar
 
 <!-- ============================ FOOTER ============================ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%"/>
-</div>
